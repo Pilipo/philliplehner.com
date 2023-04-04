@@ -8,25 +8,25 @@
 # {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
 
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: ""
+    text: What do you want to build today?
     button: Tell Me More
     buttonlink: "#services"
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "I provide help with technology and story-centered marketing."
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Technology"
+        desc: "I have worked in technology, ranging from customer support to web development to educational system designs for decades. Let's work together to uniquely implement technology in a way that builds value in your life and business."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Writing"
+        desc: "We are all driven by stories. Connection to one another motivates our decisions and direct so much of what we accomplish. Let me help to clarify your story."
+        icon: fas fa-pencil-alt
+      - title: "Focus"
+        desc: "Getting your message honed and directed is critical to generating meaningful impact both personally and professionally. Let's talk about your aims."
+        icon: fas fa-dot-circle
 
   portfolio:
     title: "Portfolio"
