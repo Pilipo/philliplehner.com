@@ -30,7 +30,7 @@ services:
 
 portfolio:
   title: "Portfolio"
-  text: "Lorem ipsum dolor sit amet consectetur."
+  text: "A deeper dig into a few projects I have supported."
   section: portfolio
   closebutton: "Close Project"
 
@@ -93,6 +93,7 @@ timeline:
      # align: right
   end: "The story <br />starts <br />here"
 
+# TODO: add more about creative and technical project interests
 about:
   title: "About Me"
   text: "in a nutshell"

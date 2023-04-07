@@ -1,12 +1,12 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Big Muff Tremolo
+subtitle: Guitar pedal hack!
 image: /assets/img/portfolio/02-full.jpg
 alt: Keep Exploring
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
+  title: Big Muff Tremolo
+  subtitle: Guitar pedal hack!
   thumbnail: /assets/img/portfolio/02-thumbnail.jpg
 ---
 

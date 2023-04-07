@@ -1,12 +1,12 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Audrey Fireflies
+subtitle: Hazelwood Labs collaboration
 image: /assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
 
 caption:
-  title: Threads
-  subtitle: Illustration
+  title: Audrey Fireflies
+  subtitle: Hazelwood Labs collaboration
   thumbnail: /assets/img/portfolio/01-thumbnail.jpg
 ---
 
