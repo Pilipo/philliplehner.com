@@ -47,6 +47,12 @@ timeline:
       desc: "Promoted to director after successfully leading my lean team in consistently delivering training updates that incorporated customer feedback, product feature explanations, and increased emphasis on certification and continued education. Assembled and developed a team of six content designers empowered to deliver and maintain training materials for customers, sales and technical partners, and internal employees. Negotiated project needs between internal and external stakeholders to deliver training to accommodate broad audiences of varying skill levels. Maintained a best-in-class Net Promoter Score of over 40 and Customer Satisfaction Rating of over 90."
       image: assets/img/timeline/bt-logo.png
       alt:
+    - title: "Hazelwood Laboratories"
+      role: "Contracted Developer"
+      year: "2020"
+      desc: "I worked again with Joe Hazelwood and New Hat to build an arduino powered firefly wallpaper for the restrooms of Audrey restaurant in Nashville."
+      image: assets/img/timeline/haz-logo.png
+      alt: image alt text
     - title: "BeyondTrust"
       role: "Senior Manager eLearning"
       year: "2019 to 2021"
@@ -59,6 +65,12 @@ timeline:
       desc: "As a self-paced training developer, designed and released online training material for global customers."
       image: assets/img/timeline/bt-logo.png
       alt:
+    - title: "Hazelwood Laboratories"
+      role: "Contracted Developer"
+      year: "2015"
+      desc: "Among my proudest projects was working with Joe Hazelwood to build a Raspberry Pi powered video multi-caster for OZ Nashville.  The project was featured in MagPi issue #33 and later in the 50 best projects issue."
+      image: assets/img/timeline/haz-logo.png
+      alt: image alt text
     - title: "BeyondTrust <em>(Bomgar)</em>"
       role: "Senior Instructor"
       year: "2014 to 2017"
@@ -82,9 +94,9 @@ timeline:
   end: "The story <br />starts <br />here"
 
 about:
-  title: "About Us"
-  text: "our story"
-  body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+  title: "About Me"
+  text: "in a nutshell"
+  body: "My passion is centered around solving problems with people. I am a Product Education Director with experience including 3+ years leading people, 5+ years managing projects, and 2+ years building subscription-based training products. I am excited by understanding and supporting stakeholder needs while building value in a collaborative environment."
   section: about
 
 clients:
