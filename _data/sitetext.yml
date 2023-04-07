@@ -36,34 +36,50 @@ portfolio:
 
 timeline:
   title: "Timeline"
-  text: "Lorem ipsum timeline"
+  text: "A quick snapshot of my history in the creative use of technology."
   section: timeline
   # left is the default
   #start_align: "left"
   events:
-    - title: "Our Humble Beginnings"
-      year: "2009-2011"
-      desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-      image: assets/img/timeline/1.jpg
+    - title: "BeyondTrust"
+      role: "Senior Director Education Resources"
+      year: "2021 to Present"
+      desc: "Promoted to director after successfully leading my lean team in consistently delivering training updates that incorporated customer feedback, product feature explanations, and increased emphasis on certification and continued education. Assembled and developed a team of six content designers empowered to deliver and maintain training materials for customers, sales and technical partners, and internal employees. Negotiated project needs between internal and external stakeholders to deliver training to accommodate broad audiences of varying skill levels. Maintained a best-in-class Net Promoter Score of over 40 and Customer Satisfaction Rating of over 90."
+      image: assets/img/timeline/bt-logo.png
       alt:
-    - title: "An Agency is Born"
-      year: "March 2011"
-      desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-      image: assets/img/timeline/2.jpg
+    - title: "BeyondTrust"
+      role: "Senior Manager eLearning"
+      year: "2019 to 2021"
+      desc: "Promoted to senior manager after successfully leading a critical tool migration project and developing a training roadmap that accommodated product engineers moving to a faster product release cadence using Agile workflow. Promoted to manager after leading my team to standardize course development processes and tool selection procedures. Expanded self-paced course coverage from 2 to 5+ products."
+      image: assets/img/timeline/bt-logo.png
       alt:
-    - title: "Jekyll Theme is created"
-      year: "2019"
-      desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-      image: assets/img/timeline/3.jpg
+    - title: "BeyondTrust"
+      role: "Senior eLearning Developer"
+      year: "2017 to 2019"
+      desc: "As a self-paced training developer, designed and released online training material for global customers."
+      image: assets/img/timeline/bt-logo.png
+      alt:
+    - title: "BeyondTrust <em>(Bomgar)</em>"
+      role: "Senior Instructor"
+      year: "2014 to 2017"
+      desc: "Rejoined the technology sector as product instructor delivering cyber security training to global customers, both virtually and in-person."
+      image: assets/img/timeline/bg-logo.png
       alt: image alt text
-    - title: "Title"
-      year: "2009-2011"
-      desc: "Your description here, **Markdown** is fully supported."
-      image: assets/img/timeline/4.jpg
+    - title: "Barista Parlor"
+      role: "Kitchen Manager"
+      year: "2013"
+      desc: "Took a break from providing support in high pressure environment and embraced a love of good food, coffee, and fun-loving teammates. Assembled a team that consistently prepped, prepared, and delivered excellent food that paired with specific coffee origins."
+      image: assets/img/timeline/barista-parlor.png
       alt:
-      # you can enforce the alignment
-      align: right
-  end: "Be Part <br> of Our <br> Story!"
+    - title: "Click Effects"
+      role: "Product Support Engineer"
+      year: "2006 to 2012"
+      desc: "Support engineer resolving technical issue for operators in the NBA, MLB, and NFL during game day productions. Performed on-site installations and training for sport venues like Madison Square Garden and Staples Center."
+      image: assets/img/timeline/clickeffects.png
+      alt:
+     # you can enforce the alignment
+     # align: right
+  end: "The story <br />starts <br />here"
 
 about:
   title: "About Us"
